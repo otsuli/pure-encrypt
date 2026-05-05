@@ -8,6 +8,7 @@
 ### Or: 
 Clone or download the repository and place the Lua-Encryption in your project folder.
 
+### And: 
 include this at the top of your file: 
 ```
 local crypto = require("pure-encrypt")
